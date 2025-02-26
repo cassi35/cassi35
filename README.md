@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Olá! Sou Cassiano Sobral, um desenvolvedor full stack apaixonado por tecnologia e inovação. Com experiência em JavaScript, Node.js, React e Python, gosto de criar soluções eficientes e escaláveis para a web<br>
+👋Hello! I'm Cassiano Sobral, a full stack developer passionate about technology and innovation. With experience in JavaScript, Node.js, React, and Python, I enjoy building efficient and scalable solutions for the web.
+<br>
 
 
 ## 🌐 Socials:
